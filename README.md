@@ -32,3 +32,8 @@ This project analyzes Brazilian e-commerce data from Olist to extract business i
 
 - docs  
   Project documentation, including architecture and design decisions.
+
+## Data Processing
+
+Initial data inspection and validation were performed using Excel.
+Data cleaning and transformations are documented and later reproduced in Python.
